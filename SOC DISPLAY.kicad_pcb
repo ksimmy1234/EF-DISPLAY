@@ -286,7 +286,7 @@
     (property "ki_keywords" "mounting hole")
     (path "/30e4da15-ae24-448e-85aa-b799c2ff1750")
     (attr exclude_from_pos_files)
-    (fp_text reference "H1" (at 0 -3.25) (layer "F.SilkS")
+    (fp_text reference "H1" (at -6.977 -17.517) (layer "F.SilkS")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d8c4cd29-0247-4091-97b4-aaa5a58d3860)
     )
@@ -2464,7 +2464,7 @@
 
   (footprint "TerminalBlock:TerminalBlock_bornier-4_P5.08mm" (layer "F.Cu")
     (tstamp ae8debc5-085a-460b-902f-a8e909debf32)
-    (at 114.435 58.735)
+    (at 107.458 44.468)
     (descr "simple 4-pin terminal block, pitch 5.08mm, revamped version of bornier4")
     (tags "terminal block bornier4")
     (property "Sheetfile" "SOC DISPLAY.kicad_sch")
