@@ -66,7 +66,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "H1") (unit 1)
+          (reference "H101") (unit 1)
         )
       )
     )
@@ -95,7 +95,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "H2") (unit 1)
+          (reference "H102") (unit 1)
         )
       )
     )
@@ -124,7 +124,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "H4") (unit 1)
+          (reference "H104") (unit 1)
         )
       )
     )
@@ -153,7 +153,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "H5") (unit 1)
+          (reference "H105") (unit 1)
         )
       )
     )
@@ -182,7 +182,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "H3") (unit 1)
+          (reference "H103") (unit 1)
         )
       )
     )
@@ -211,7 +211,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "H6") (unit 1)
+          (reference "H106") (unit 1)
         )
       )
     )

@@ -898,7 +898,7 @@
           (reference "C12") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "C?") (unit 1)
+          (reference "C109") (unit 1)
         )
       )
     )
@@ -910,7 +910,7 @@
     (property "Reference" "1M1" (at 95.25 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R22" (at 95.25 96.52 0)
+    (property "Value" "1M" (at 95.25 96.52 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 101.6 95.25 0)
@@ -927,7 +927,7 @@
           (reference "1M1") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "1M?") (unit 1)
+          (reference "R102") (unit 1)
         )
       )
     )
@@ -960,7 +960,7 @@
           (reference "#PWR014") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "#PWR027") (unit 1)
+          (reference "#PWR0102") (unit 1)
         )
       )
     )
@@ -994,7 +994,7 @@
           (reference "R22") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "R?") (unit 1)
+          (reference "R104") (unit 1)
         )
       )
     )
@@ -1033,7 +1033,7 @@
           (reference "R29") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "R?") (unit 1)
+          (reference "R108") (unit 1)
         )
       )
     )
@@ -1072,7 +1072,7 @@
           (reference "C5") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "C?") (unit 1)
+          (reference "C102") (unit 1)
         )
       )
     )
@@ -1105,7 +1105,7 @@
           (reference "#PWR017") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "#PWR029") (unit 1)
+          (reference "#PWR0104") (unit 1)
         )
       )
     )
@@ -1117,7 +1117,7 @@
     (property "Reference" "332k1" (at 95.25 101.6 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R23" (at 95.25 104.14 0)
+    (property "Value" "332K" (at 95.25 104.14 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 101.6 102.87 0)
@@ -1134,7 +1134,7 @@
           (reference "332k1") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "332k?") (unit 1)
+          (reference "R103") (unit 1)
         )
       )
     )
@@ -1143,7 +1143,7 @@
   (symbol (lib_id "Device:C") (at 170.18 66.04 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4dce1894-30c0-44d2-9554-e64709601843)
-    (property "Reference" "C1" (at 165.1 66.04 0)
+    (property "Reference" "C1" (at 163.83 66.04 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "1uf" (at 165.1 63.5 0)
@@ -1168,7 +1168,7 @@
           (reference "C8") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "C?") (unit 1)
+          (reference "C105") (unit 1)
         )
       )
     )
@@ -1202,7 +1202,7 @@
           (reference "C13") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "C?") (unit 1)
+          (reference "C110") (unit 1)
         )
       )
     )
@@ -1211,7 +1211,7 @@
   (symbol (lib_id "Device:C") (at 107.95 69.85 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5ae36772-fa7c-4211-836d-ba1ce457a437)
-    (property "Reference" "C2" (at 107.95 67.31 90)
+    (property "Reference" "C2" (at 107.95 66.04 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "0.1uf" (at 107.95 73.66 90)
@@ -1236,7 +1236,7 @@
           (reference "C4") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "C?") (unit 1)
+          (reference "C101") (unit 1)
         )
       )
     )
@@ -1245,7 +1245,7 @@
   (symbol (lib_id "Device:C") (at 171.45 95.25 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6d462590-eded-4d1f-af66-bea783bd66c7)
-    (property "Reference" "C4" (at 168.91 95.25 0)
+    (property "Reference" "C4" (at 167.64 93.98 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "2200pf" (at 173.99 91.44 90)
@@ -1275,7 +1275,7 @@
           (reference "C9") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "C?") (unit 1)
+          (reference "C106") (unit 1)
         )
       )
     )
@@ -1314,7 +1314,7 @@
           (reference "C7") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "C?") (unit 1)
+          (reference "C104") (unit 1)
         )
       )
     )
@@ -1353,7 +1353,7 @@
           (reference "R27") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "R?") (unit 1)
+          (reference "R106") (unit 1)
         )
       )
     )
@@ -1391,7 +1391,7 @@
           (reference "U4") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "U?") (unit 1)
+          (reference "U101") (unit 1)
         )
       )
     )
@@ -1430,7 +1430,7 @@
           (reference "L2") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "L?") (unit 1)
+          (reference "L102") (unit 1)
         )
       )
     )
@@ -1487,7 +1487,7 @@
           (reference "IC2") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "IC?") (unit 1)
+          (reference "IC101") (unit 1)
         )
       )
     )
@@ -1496,7 +1496,7 @@
   (symbol (lib_id "Device:L") (at 96.52 66.04 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9729d1b2-6b8f-42b1-b883-d190efdc1f1c)
-    (property "Reference" "L1" (at 93.98 64.77 90)
+    (property "Reference" "L1" (at 95.25 63.5 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "3.3uH" (at 95.25 67.31 90)
@@ -1521,7 +1521,7 @@
           (reference "L1") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "L?") (unit 1)
+          (reference "L101") (unit 1)
         )
       )
     )
@@ -1554,7 +1554,7 @@
           (reference "#PWR021") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR0105") (unit 1)
         )
       )
     )
@@ -1593,7 +1593,7 @@
           (reference "R28") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "R?") (unit 1)
+          (reference "R107") (unit 1)
         )
       )
     )
@@ -1632,7 +1632,7 @@
           (reference "C6") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "C?") (unit 1)
+          (reference "C103") (unit 1)
         )
       )
     )
@@ -1671,7 +1671,7 @@
           (reference "C11") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "C?") (unit 1)
+          (reference "C108") (unit 1)
         )
       )
     )
@@ -1704,7 +1704,7 @@
           (reference "#PWR023") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "#PWR032") (unit 1)
+          (reference "#PWR0107") (unit 1)
         )
       )
     )
@@ -1716,7 +1716,7 @@
     (property "Reference" "100k1" (at 113.03 102.87 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "R24" (at 113.03 105.41 0)
+    (property "Value" "100K" (at 113.03 105.41 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 111.76 104.14 0)
@@ -1733,7 +1733,7 @@
           (reference "100k1") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "100k?") (unit 1)
+          (reference "R105") (unit 1)
         )
       )
     )
@@ -1771,7 +1771,7 @@
           (reference "#PWR022") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "#PWR031") (unit 1)
+          (reference "#PWR0106") (unit 1)
         )
       )
     )
@@ -1810,7 +1810,7 @@
           (reference "C10") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "C?") (unit 1)
+          (reference "C107") (unit 1)
         )
       )
     )
@@ -1847,7 +1847,7 @@
           (reference "U5") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "U?") (unit 1)
+          (reference "U102") (unit 1)
         )
       )
     )
@@ -1880,7 +1880,7 @@
           (reference "#PWR016") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "#PWR028") (unit 1)
+          (reference "#PWR0103") (unit 1)
         )
       )
     )
@@ -1913,7 +1913,7 @@
           (reference "#PWR025") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "#PWR034") (unit 1)
+          (reference "#PWR0109") (unit 1)
         )
       )
     )
@@ -1946,7 +1946,7 @@
           (reference "#PWR013") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "#PWR026") (unit 1)
+          (reference "#PWR0101") (unit 1)
         )
       )
     )
@@ -1980,7 +1980,7 @@
           (reference "R21") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "R?") (unit 1)
+          (reference "R101") (unit 1)
         )
       )
     )
@@ -2013,7 +2013,7 @@
           (reference "#PWR024") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
-          (reference "#PWR033") (unit 1)
+          (reference "#PWR0108") (unit 1)
         )
       )
     )
