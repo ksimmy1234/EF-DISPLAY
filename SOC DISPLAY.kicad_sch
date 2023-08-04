@@ -3714,7 +3714,7 @@
   (symbol (lib_id "LI0603G121R-10:LI0603G121R-10") (at 19.05 26.67 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 05746b33-02b2-42cf-b576-e1e8b704e02f)
-    (property "Reference" "E?" (at 20.32 24.13 90)
+    (property "Reference" "E1" (at 20.32 24.13 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "LI0603G121R-10" (at 15.24 21.59 0)
@@ -3743,7 +3743,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "E?") (unit 1)
+          (reference "E1") (unit 1)
         )
       )
     )
@@ -3773,7 +3773,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR03") (unit 1)
+          (reference "#PWR02") (unit 1)
         )
       )
     )
@@ -3804,7 +3804,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "C?") (unit 1)
+          (reference "C2") (unit 1)
         )
       )
     )
@@ -3840,7 +3840,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R27") (unit 1)
+          (reference "R29") (unit 1)
         )
       )
     )
@@ -3930,7 +3930,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R19") (unit 1)
+          (reference "R24") (unit 1)
         )
       )
     )
@@ -4021,7 +4021,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R8") (unit 1)
         )
       )
     )
@@ -4081,7 +4081,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR02") (unit 1)
+          (reference "#PWR03") (unit 1)
         )
       )
     )
@@ -4112,7 +4112,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R18") (unit 1)
+          (reference "R23") (unit 1)
         )
       )
     )
@@ -4251,7 +4251,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR011") (unit 1)
+          (reference "#PWR013") (unit 1)
         )
       )
     )
@@ -4282,7 +4282,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R6") (unit 1)
         )
       )
     )
@@ -4353,7 +4353,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR020") (unit 1)
+          (reference "#PWR022") (unit 1)
         )
       )
     )
@@ -4384,7 +4384,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R9") (unit 1)
         )
       )
     )
@@ -4445,7 +4445,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR025") (unit 1)
+          (reference "#PWR011") (unit 1)
         )
       )
     )
@@ -4476,7 +4476,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R15") (unit 1)
         )
       )
     )
@@ -4532,7 +4532,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR017") (unit 1)
+          (reference "#PWR019") (unit 1)
         )
       )
     )
@@ -4562,7 +4562,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR013") (unit 1)
+          (reference "#PWR015") (unit 1)
         )
       )
     )
@@ -4624,7 +4624,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "F?") (unit 1)
+          (reference "F1") (unit 1)
         )
       )
     )
@@ -4655,7 +4655,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R19") (unit 1)
         )
       )
     )
@@ -4751,7 +4751,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R5") (unit 1)
         )
       )
     )
@@ -4814,7 +4814,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "J?") (unit 1)
+          (reference "J1") (unit 1)
         )
       )
     )
@@ -4844,7 +4844,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR024") (unit 1)
+          (reference "#PWR010") (unit 1)
         )
       )
     )
@@ -4935,7 +4935,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR010") (unit 1)
+          (reference "#PWR012") (unit 1)
         )
       )
     )
@@ -4966,7 +4966,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R12") (unit 1)
         )
       )
     )
@@ -4997,7 +4997,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R17") (unit 1)
         )
       )
     )
@@ -5059,7 +5059,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R21") (unit 1)
+          (reference "R26") (unit 1)
         )
       )
     )
@@ -5090,7 +5090,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R16") (unit 1)
+          (reference "R21") (unit 1)
         )
       )
     )
@@ -5126,7 +5126,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R25") (unit 1)
+          (reference "R27") (unit 1)
         )
       )
     )
@@ -5199,7 +5199,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "U?") (unit 1)
+          (reference "U2") (unit 1)
         )
       )
     )
@@ -5230,7 +5230,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R10") (unit 1)
         )
       )
     )
@@ -5297,7 +5297,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "C?") (unit 1)
+          (reference "C3") (unit 1)
         )
       )
     )
@@ -5333,7 +5333,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R26") (unit 1)
+          (reference "R28") (unit 1)
         )
       )
     )
@@ -5364,7 +5364,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R15") (unit 1)
+          (reference "R20") (unit 1)
         )
       )
     )
@@ -5394,7 +5394,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR018") (unit 1)
+          (reference "#PWR020") (unit 1)
         )
       )
     )
@@ -5425,7 +5425,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R11") (unit 1)
         )
       )
     )
@@ -5487,7 +5487,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR014") (unit 1)
+          (reference "#PWR016") (unit 1)
         )
       )
     )
@@ -5608,7 +5608,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R7") (unit 1)
         )
       )
     )
@@ -5769,7 +5769,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "C?") (unit 1)
+          (reference "C1") (unit 1)
         )
       )
     )
@@ -5941,7 +5941,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R13") (unit 1)
         )
       )
     )
@@ -6001,7 +6001,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR015") (unit 1)
+          (reference "#PWR017") (unit 1)
         )
       )
     )
@@ -6031,7 +6031,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR016") (unit 1)
+          (reference "#PWR018") (unit 1)
         )
       )
     )
@@ -6091,7 +6091,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R17") (unit 1)
+          (reference "R22") (unit 1)
         )
       )
     )
@@ -6121,7 +6121,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR021") (unit 1)
+          (reference "#PWR023") (unit 1)
         )
       )
     )
@@ -6155,7 +6155,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "J?") (unit 1)
+          (reference "J2") (unit 1)
         )
       )
     )
@@ -6219,7 +6219,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "J?") (unit 1)
+          (reference "J4") (unit 1)
         )
       )
     )
@@ -6252,7 +6252,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "J?") (unit 1)
+          (reference "J3") (unit 1)
         )
       )
     )
@@ -6283,7 +6283,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R1") (unit 1)
         )
       )
     )
@@ -6313,7 +6313,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR023") (unit 1)
+          (reference "#PWR025") (unit 1)
         )
       )
     )
@@ -6344,7 +6344,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "J?") (unit 1)
+          (reference "J5") (unit 1)
         )
       )
     )
@@ -6375,7 +6375,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R20") (unit 1)
+          (reference "R25") (unit 1)
         )
       )
     )
@@ -6405,7 +6405,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR019") (unit 1)
+          (reference "#PWR021") (unit 1)
         )
       )
     )
@@ -6436,7 +6436,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R4") (unit 1)
         )
       )
     )
@@ -6493,7 +6493,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R16") (unit 1)
         )
       )
     )
@@ -6570,7 +6570,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "U?") (unit 1)
+          (reference "U1") (unit 1)
         )
       )
     )
@@ -6600,7 +6600,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR022") (unit 1)
+          (reference "#PWR024") (unit 1)
         )
       )
     )
@@ -6631,7 +6631,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R18") (unit 1)
         )
       )
     )
@@ -6716,7 +6716,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R3") (unit 1)
         )
       )
     )
@@ -6747,7 +6747,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "R?") (unit 1)
+          (reference "R14") (unit 1)
         )
       )
     )
@@ -6777,7 +6777,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
-          (reference "#PWR012") (unit 1)
+          (reference "#PWR014") (unit 1)
         )
       )
     )
