@@ -43,6 +43,11 @@
     (uuid cc40f636-43b9-4c6e-a52d-68eb5de4a98c)
   )
 
+  (text "SECOND_PROJECT(SOC_DISPLAY+BLE_MODULE)" (at 74.93 22.86 0)
+    (effects (font (size 5 5) (thickness 0.6) bold) (justify left bottom))
+    (uuid a21c7c07-990e-41ec-bdf0-5c612b303404)
+  )
+
   (symbol (lib_id "Mechanical:MountingHole") (at 256.54 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0444a3a8-399b-452f-8c65-bd4ff517939f)
