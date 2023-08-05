@@ -505,7 +505,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "R?") (unit 1)
+          (reference "R608") (unit 1)
         )
       )
     )
@@ -591,7 +591,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "R?") (unit 1)
+          (reference "R601") (unit 1)
         )
       )
     )
@@ -617,7 +617,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "C?") (unit 1)
+          (reference "C603") (unit 1)
         )
       )
     )
@@ -626,7 +626,7 @@
   (symbol (lib_id "Device:R") (at 218.44 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4f283aae-d59b-47cb-829f-6cc85d810ec3)
-    (property "Reference" "R607" (at 217.17 68.58 0)
+    (property "Reference" "R607" (at 215.9 87.63 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 218.44 74.93 90)
@@ -643,7 +643,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "R?") (unit 1)
+          (reference "R607") (unit 1)
         )
       )
     )
@@ -669,7 +669,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "C?") (unit 1)
+          (reference "C604") (unit 1)
         )
       )
     )
@@ -695,7 +695,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "C?") (unit 1)
+          (reference "C602") (unit 1)
         )
       )
     )
@@ -734,7 +734,7 @@
   (symbol (lib_id "Device:R") (at 214.63 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 673e66a0-854f-4e0c-88f7-dde6d042c673)
-    (property "Reference" "R606" (at 213.36 68.58 0)
+    (property "Reference" "R606" (at 210.82 68.58 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 214.63 74.93 90)
@@ -751,7 +751,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "R?") (unit 1)
+          (reference "R606") (unit 1)
         )
       )
     )
@@ -777,7 +777,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "R?") (unit 1)
+          (reference "R602") (unit 1)
         )
       )
     )
@@ -833,7 +833,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "R?") (unit 1)
+          (reference "R603") (unit 1)
         )
       )
     )
@@ -859,7 +859,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "R?") (unit 1)
+          (reference "R605") (unit 1)
         )
       )
     )
@@ -915,7 +915,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "R?") (unit 1)
+          (reference "R604") (unit 1)
         )
       )
     )
@@ -949,7 +949,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "U?") (unit 1)
+          (reference "U601") (unit 1)
         )
       )
     )
@@ -975,7 +975,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "C?") (unit 1)
+          (reference "C601") (unit 1)
         )
       )
     )
