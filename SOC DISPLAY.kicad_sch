@@ -234,23 +234,6 @@
     )
   )
 
-  (sheet (at 124.46 110.49) (size 26.67 15.24) (fields_autoplaced)
-    (stroke (width 0.1524) (type solid))
-    (fill (color 0 0 0 0.0000))
-    (uuid 0ac49c82-9e58-4d9f-afab-09f4d15bb826)
-    (property "Sheetname" "Ina_228" (at 124.46 109.7784 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom))
-    )
-    (property "Sheetfile" "Ina_228.kicad_sch" (at 124.46 126.3146 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
-    )
-    (instances
-      (project "SOC DISPLAY"
-        (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01" (page "7"))
-      )
-    )
-  )
-
   (sheet (at 181.61 71.12) (size 48.26 33.02) (fields_autoplaced)
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))

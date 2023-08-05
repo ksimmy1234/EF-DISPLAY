@@ -469,6 +469,26 @@
     [
       "9f7696f8-e9fa-4362-b2ca-5dde3355ad01",
       ""
+    ],
+    [
+      "f6af75e3-ef65-47cd-959b-72e6fa5f8f61",
+      "POWER_UNIT"
+    ],
+    [
+      "04eef66b-5e57-42e7-9448-b3758ef8edd2",
+      "STM32MCU"
+    ],
+    [
+      "9567ceac-cf9d-402d-84c9-4f71d5031f7f",
+      "Buzzer Unit "
+    ],
+    [
+      "96e457eb-438e-4074-9697-a760e6ff4301",
+      "Tranceiver"
+    ],
+    [
+      "3c4c5daf-1dcb-46b8-a7a7-925b6fcdbaca",
+      "Ble Unit"
     ]
   ],
   "text_variables": {}
