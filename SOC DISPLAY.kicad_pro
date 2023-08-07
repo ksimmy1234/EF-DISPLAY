@@ -489,6 +489,10 @@
     [
       "3c4c5daf-1dcb-46b8-a7a7-925b6fcdbaca",
       "Ble Unit"
+    ],
+    [
+      "5b884267-8592-446c-85d7-63f10c8d8fbb",
+      "Ina_228"
     ]
   ],
   "text_variables": {}
