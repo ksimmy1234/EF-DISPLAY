@@ -171,7 +171,7 @@
     (uuid f36ac2f6-a436-4a4f-8624-8e7913c34a0d)
   )
 
-  (rectangle (start 114.3 55.88) (end 158.75 93.98)
+  (rectangle (start 113.03 55.88) (end 158.75 93.98)
     (stroke (width 0.2) (type dash_dot_dot) (color 102 74 255 1))
     (fill (type none))
     (uuid e06aaa7d-e376-4832-b779-d022ad0b0e40)
@@ -182,10 +182,6 @@
     (uuid 4e32f61e-2c68-4ad9-8155-6ef1376275fd)
   )
 
-  (label "3V3" (at 119.38 77.47 180) (fields_autoplaced)
-    (effects (font (size 1.27 1.27)) (justify right bottom))
-    (uuid 3e37849d-a7a1-4c62-80b9-5660e5cc01d5)
-  )
   (label "RX" (at 120.65 72.39 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 90fa23c6-e8c5-44c3-bd8d-a8327f8ef26a)
@@ -195,6 +191,13 @@
     (uuid b2f9b205-2dfe-415a-b21e-251aacfcdea7)
   )
 
+  (global_label "3V3" (shape input) (at 119.38 77.47 180) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify right))
+    (uuid 16200ce1-042e-43e7-8080-ccf86ea82aa9)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 112.9666 77.47 0)
+      (effects (font (size 1.27 1.27)) (justify right) hide)
+    )
+  )
   (global_label "5V" (shape input) (at 134.62 63.5 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 40ae4199-2c82-4bf0-b33f-84cff6cf4e19)
@@ -259,7 +262,7 @@
           (reference "R20") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/96e457eb-438e-4074-9697-a760e6ff4301"
-          (reference "R401") (unit 1)
+          (reference "R33") (unit 1)
         )
       )
     )
@@ -299,7 +302,7 @@
           (reference "U3") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/96e457eb-438e-4074-9697-a760e6ff4301"
-          (reference "U401") (unit 1)
+          (reference "U5") (unit 1)
         )
       )
     )
@@ -332,7 +335,7 @@
           (reference "#PWR012") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/96e457eb-438e-4074-9697-a760e6ff4301"
-          (reference "#PWR0401") (unit 1)
+          (reference "#PWR024") (unit 1)
         )
       )
     )
@@ -365,7 +368,7 @@
           (reference "#PWR015") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/96e457eb-438e-4074-9697-a760e6ff4301"
-          (reference "#PWR0402") (unit 1)
+          (reference "#PWR025") (unit 1)
         )
       )
     )
@@ -399,7 +402,7 @@
           (reference "R23") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/96e457eb-438e-4074-9697-a760e6ff4301"
-          (reference "R402") (unit 1)
+          (reference "R34") (unit 1)
         )
       )
     )
