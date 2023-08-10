@@ -961,6 +961,39 @@
     )
   )
 
+  (symbol (lib_id "power:GND") (at 138.43 111.76 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+    (uuid 056e381d-ae3e-4512-b2b0-fb7bb643fe7d)
+    (property "Reference" "#PWR04" (at 138.43 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Value" "GND" (at 138.43 116.84 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "" (at 138.43 111.76 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "" (at 138.43 111.76 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 987e4c10-1aef-455c-bf68-553ca2626237))
+    (instances
+      (project "SOC 2"
+        (path "/61c20a78-9f1a-4b1a-a5d9-ab1a8f753f68"
+          (reference "#PWR04") (unit 1)
+        )
+      )
+      (project "SOC DISPLAY"
+        (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01"
+          (reference "#PWR016") (unit 1)
+        )
+        (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/f6af75e3-ef65-47cd-959b-72e6fa5f8f61"
+          (reference "#PWR08") (unit 1)
+        )
+      )
+    )
+  )
+
   (symbol (lib_id "Device:R_Small_US") (at 109.22 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 131cbc4d-17ef-467d-bf02-e856419975e5)
@@ -1032,7 +1065,7 @@
     (property "Value" "56k" (at 101.6 57.15 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder" (at 101.6 58.928 90)
+    (property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder" (at 101.6 58.928 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 101.6 57.15 0)
@@ -1138,7 +1171,11 @@
     (property "Value" "2.2uF" (at 115.57 86.36 90)
       (effects (font (size 1.27 1.27)))
     )
+<<<<<<< HEAD
+    (property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder" (at 111.76 92.4052 0)
+=======
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 111.76 92.4052 0)
+>>>>>>> 23875e242d9c1cd95728e92dcce2eb2bf5330e30
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 115.57 91.44 0)
@@ -1239,7 +1276,11 @@
     (property "Value" "1uf" (at 162.56 63.5 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
+<<<<<<< HEAD
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 168.6052 69.85 0)
+=======
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 168.6052 69.85 0)
+>>>>>>> 23875e242d9c1cd95728e92dcce2eb2bf5330e30
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 167.64 66.04 0)
@@ -1307,7 +1348,11 @@
     (property "Value" "0.1uf" (at 105.41 73.66 90)
       (effects (font (size 1.27 1.27)))
     )
+<<<<<<< HEAD
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric_Pad0.74x0.62mm_HandSolder" (at 109.22 68.8848 0)
+=======
     (property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder" (at 109.22 68.8848 0)
+>>>>>>> 23875e242d9c1cd95728e92dcce2eb2bf5330e30
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 105.41 69.85 0)
