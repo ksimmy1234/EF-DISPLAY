@@ -567,7 +567,7 @@
   (symbol (lib_id "Device:R") (at 222.25 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0c0e0d6b-5e84-4b02-8019-e3451c20a8a9)
-    (property "Reference" "R42" (at 220.98 68.58 0)
+    (property "Reference" "R608" (at 220.98 68.58 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 222.25 74.93 90)
@@ -584,7 +584,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "R42") (unit 1)
+          (reference "R608") (unit 1)
         )
       )
     )
@@ -614,7 +614,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "#PWR031") (unit 1)
+          (reference "#PWR0605") (unit 1)
         )
       )
     )
@@ -644,7 +644,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "#PWR027") (unit 1)
+          (reference "#PWR0601") (unit 1)
         )
       )
     )
@@ -674,7 +674,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "#PWR029") (unit 1)
+          (reference "#PWR0603") (unit 1)
         )
       )
     )
@@ -683,7 +683,7 @@
   (symbol (lib_id "Device:R") (at 113.03 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3f55fd2c-7cd1-4ca3-945a-c10db858ba64)
-    (property "Reference" "R35" (at 113.03 64.77 90)
+    (property "Reference" "R601" (at 113.03 64.77 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 113.03 67.31 90)
@@ -700,7 +700,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "R35") (unit 1)
+          (reference "R601") (unit 1)
         )
       )
     )
@@ -709,7 +709,7 @@
   (symbol (lib_id "Device:C") (at 175.26 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 42c39353-5925-4e56-9aed-209297ee87aa)
-    (property "Reference" "C16" (at 177.8 73.66 0)
+    (property "Reference" "C603" (at 177.8 73.66 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22uF" (at 177.8 76.2 0)
@@ -726,7 +726,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "C16") (unit 1)
+          (reference "C603") (unit 1)
         )
       )
     )
@@ -735,7 +735,7 @@
   (symbol (lib_id "Device:R") (at 218.44 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4f283aae-d59b-47cb-829f-6cc85d810ec3)
-    (property "Reference" "R41" (at 215.9 87.63 0)
+    (property "Reference" "R607" (at 215.9 87.63 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 218.44 74.93 90)
@@ -752,7 +752,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "R41") (unit 1)
+          (reference "R607") (unit 1)
         )
       )
     )
@@ -761,7 +761,7 @@
   (symbol (lib_id "Device:C") (at 208.28 77.47 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 59fd2d97-037e-45e5-ad39-1645375b38df)
-    (property "Reference" "C17" (at 203.2 74.93 0)
+    (property "Reference" "C604" (at 203.2 74.93 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22uF" (at 200.66 77.47 0)
@@ -778,7 +778,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "C17") (unit 1)
+          (reference "C604") (unit 1)
         )
       )
     )
@@ -787,7 +787,7 @@
   (symbol (lib_id "Device:C") (at 96.52 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 62149c1d-e8cc-4b72-84cd-e50bcd401ec4)
-    (property "Reference" "C15" (at 100.33 80.01 0)
+    (property "Reference" "C602" (at 100.33 80.01 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22uF" (at 100.33 82.55 0)
@@ -804,7 +804,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "C15") (unit 1)
+          (reference "C602") (unit 1)
         )
       )
     )
@@ -834,7 +834,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "#PWR033") (unit 1)
+          (reference "#PWR0607") (unit 1)
         )
       )
     )
@@ -843,7 +843,7 @@
   (symbol (lib_id "Device:R") (at 214.63 73.66 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 673e66a0-854f-4e0c-88f7-dde6d042c673)
-    (property "Reference" "R40" (at 210.82 68.58 0)
+    (property "Reference" "R606" (at 210.82 68.58 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "10k" (at 214.63 74.93 90)
@@ -860,7 +860,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "R40") (unit 1)
+          (reference "R606") (unit 1)
         )
       )
     )
@@ -890,7 +890,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "#PWR032") (unit 1)
+          (reference "#PWR0606") (unit 1)
         )
       )
     )
@@ -899,7 +899,7 @@
   (symbol (lib_id "Device:R") (at 113.03 72.39 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 83946a3f-490f-4896-bc96-1daf41d599e4)
-    (property "Reference" "R36" (at 113.03 69.85 90)
+    (property "Reference" "R602" (at 113.03 69.85 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "10k" (at 113.03 72.39 90)
@@ -916,7 +916,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "R36") (unit 1)
+          (reference "R602") (unit 1)
         )
       )
     )
@@ -946,7 +946,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "#PWR030") (unit 1)
+          (reference "#PWR0604") (unit 1)
         )
       )
     )
@@ -955,7 +955,7 @@
   (symbol (lib_id "Device:R") (at 181.61 68.58 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a2919060-ddc6-483b-936a-8467c6fceb52)
-    (property "Reference" "R37" (at 181.61 66.04 90)
+    (property "Reference" "R603" (at 181.61 66.04 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100R" (at 181.61 68.58 90)
@@ -972,7 +972,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "R37") (unit 1)
+          (reference "R603") (unit 1)
         )
       )
     )
@@ -981,7 +981,7 @@
   (symbol (lib_id "Connector:Conn_01x02_Pin") (at 138.43 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a598e44d-9555-4f69-86c7-0efa3c388c72)
-    (property "Reference" "J6" (at 139.065 55.88 0)
+    (property "Reference" "J601" (at 139.065 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x02_Pin" (at 139.065 58.42 0)
@@ -998,7 +998,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "J6") (unit 1)
+          (reference "J601") (unit 1)
         )
       )
     )
@@ -1007,7 +1007,7 @@
   (symbol (lib_id "Device:R") (at 182.88 85.09 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b1505040-7202-41a9-b198-57a2c064c671)
-    (property "Reference" "R39" (at 182.88 82.55 90)
+    (property "Reference" "R605" (at 182.88 82.55 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "100R" (at 182.88 85.09 90)
@@ -1024,7 +1024,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "R39") (unit 1)
+          (reference "R605") (unit 1)
         )
       )
     )
@@ -1054,7 +1054,7 @@
       )
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "#PWR028") (unit 1)
+          (reference "#PWR0602") (unit 1)
         )
       )
     )
@@ -1063,7 +1063,7 @@
   (symbol (lib_id "Device:R") (at 181.61 97.79 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bb290869-dda7-4f16-b268-c74a563db8c5)
-    (property "Reference" "R38" (at 181.61 95.25 90)
+    (property "Reference" "R604" (at 181.61 95.25 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "16.2M" (at 181.61 97.79 90)
@@ -1080,7 +1080,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "R38") (unit 1)
+          (reference "R604") (unit 1)
         )
       )
     )
@@ -1089,7 +1089,7 @@
   (symbol (lib_id "Connector:Conn_01x02_Pin") (at 157.48 59.69 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d4eb4021-ed87-450e-9105-d182724ddb96)
-    (property "Reference" "J7" (at 158.115 54.61 0)
+    (property "Reference" "J602" (at 158.115 54.61 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Conn_01x02_Pin" (at 158.115 57.15 0)
@@ -1106,7 +1106,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "J7") (unit 1)
+          (reference "J602") (unit 1)
         )
       )
     )
@@ -1115,7 +1115,7 @@
   (symbol (lib_id "2023-08-04_10-34-25:INA228AQDGSRQ1") (at 116.84 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e1e428d3-4ed9-47c5-9ab8-93398a15a728)
-    (property "Reference" "U6" (at 137.16 71.12 0)
+    (property "Reference" "U601" (at 137.16 71.12 0)
       (effects (font (size 1.524 1.524)))
     )
     (property "Value" "INA228AQDGSRQ1" (at 137.16 73.66 0)
@@ -1140,7 +1140,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "U6") (unit 1)
+          (reference "U601") (unit 1)
         )
       )
     )
@@ -1149,7 +1149,7 @@
   (symbol (lib_id "Device:C") (at 87.63 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f674086e-e063-4e35-8102-18091aeee824)
-    (property "Reference" "C14" (at 80.01 78.74 0)
+    (property "Reference" "C601" (at 80.01 78.74 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "22uF" (at 78.74 81.28 0)
@@ -1166,7 +1166,7 @@
     (instances
       (project "SOC DISPLAY"
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/5b884267-8592-446c-85d7-63f10c8d8fbb"
-          (reference "C14") (unit 1)
+          (reference "C601") (unit 1)
         )
       )
     )

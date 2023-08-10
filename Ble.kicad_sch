@@ -490,7 +490,7 @@
           (reference "#PWR03") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/3c4c5daf-1dcb-46b8-a7a7-925b6fcdbaca"
-          (reference "#PWR026") (unit 1)
+          (reference "#PWR0501") (unit 1)
         )
       )
     )
@@ -573,7 +573,7 @@
           (reference "IC1") (unit 1)
         )
         (path "/9f7696f8-e9fa-4362-b2ca-5dde3355ad01/3c4c5daf-1dcb-46b8-a7a7-925b6fcdbaca"
-          (reference "IC2") (unit 1)
+          (reference "IC501") (unit 1)
         )
       )
     )
